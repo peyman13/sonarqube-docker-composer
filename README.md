@@ -33,7 +33,7 @@ login to as admin (user:admin, password: admin)
 ## Step 4
 
 ```
-create new project and take token 
+Create new project and take a token 
 
 ```
 ## Step 5
