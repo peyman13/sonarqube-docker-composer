@@ -4,7 +4,7 @@
 
 ```
 $ git clone https://github.com/peyman13/sonarqube-docker-composer.git
-$ mkdir sonarqube-docker-composer
+$ cd sonarqube-docker-composer
 
 ```
 ## Step 2
